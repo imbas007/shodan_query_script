@@ -25,3 +25,10 @@ options:
 Please make sure that you are using a valid Shodan API Key
 
 ```
+Example:
+
+```shell
+
+python3 shodan_query.py -q 'product:xxxxx'
+
+```
