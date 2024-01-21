@@ -26,6 +26,8 @@ options:
 
 Please make sure that you are using a valid Shodan API Key
 
+SHODAN_API_KEY = 'YOUR_SHODAN_API_KEY'  # Replace with your Shodan API Key
+
 ```
 Example:
 
