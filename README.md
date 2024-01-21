@@ -1,6 +1,6 @@
 # shodan query script
 
-## Resources
+##
 
 * [Usage](#usage)
 
