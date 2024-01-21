@@ -1,8 +1,5 @@
 # shodan query script
 
-##
-
-* [Usage](#usage)
 
 ## Usage
 
