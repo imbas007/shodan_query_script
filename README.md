@@ -15,6 +15,8 @@ python3 shodan_query.py -h
 ```text
 Perform a Shodan query, display results, and save IP addresses to a text file.
 
+SHODAN_API_KEY = 'YOUR_SHODAN_API_KEY'  # Replace with your Shodan API Key
+
 options:
   -h, --help            show this help message and exit
   -q QUERY, --query QUERY
