@@ -1,4 +1,4 @@
-# shodan_query.py
+# shodan query script
 
 ## Resources
 
